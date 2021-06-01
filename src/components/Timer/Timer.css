@@ -1,0 +1,26 @@
+input {
+    display: inline-block;
+    width: 120px;
+    padding: 8px 5px;
+    margin: 3px;
+    /* font-size: 18px; */
+    border: none;
+    background: none;
+    color: #00e5da;
+    font-size: 75px;
+    outline: none;
+}
+.input-left {
+    text-align: right;
+}
+.timer-input {
+    color: #00e5da;
+    font-size: 75px;
+}
+.timer-time {
+    font-size: 90px;
+    font-weight: bold;
+    color: #00e5da;
+    text-align: center;
+    transition: all 0.4s ease;
+}

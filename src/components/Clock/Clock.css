@@ -1,0 +1,29 @@
+.time-wrapper {
+    display: flex;
+    /* border: 1px solid red; */
+}
+.hr-min {
+    font-size: 90px;
+    font-weight: bold;
+    color: #00e5da;
+}
+.sec-am-pm {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    justify-content: center;
+    /* border: 1px solid green; */
+    color: #aafffb;
+}
+.sec {
+    font-size: 35px;
+}
+.am-pm {
+    font-size: 35px;
+}
+.date {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    color: #ffec43;
+}

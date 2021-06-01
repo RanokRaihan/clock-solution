@@ -1,0 +1,24 @@
+nav {
+    width: 100%;
+}
+.nav-items {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+nav li {
+    display: block;
+    /* border: 1px solid red;s */
+    padding: 10px 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.selected {
+    border-bottom: 2px solid red;
+}
+a {
+    padding: 5px 0;
+}
